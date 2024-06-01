@@ -1,8 +1,6 @@
-import streamlit as st
-import pandas as pd
-import os
-import plotly.express as px
-import warnings
-import matplotlib.pyplot as plt
-warnings.filterwarnings('ignore')
-import plotly.figure_factory as ff
+streamlit
+pandas
+os
+plotly-express
+matplotlib
+plotly
