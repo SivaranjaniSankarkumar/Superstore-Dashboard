@@ -1,6 +1,8 @@
-streamlit
-pandas
+streamlit 
+pandas 
 os
-plotly-express
-matplotlib
-plotly
+plotly.express 
+warnings
+matplotlib.pyplot 
+warnings.filterwarnings('ignore')
+plotly.figure_factory 
